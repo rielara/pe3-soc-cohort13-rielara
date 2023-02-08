@@ -31,5 +31,5 @@ Please note that depending on your web explorer, the colours may be slightly dif
 
 ## 📽️ Demo
 
-![gnews](https://user-images.githubusercontent.com/78863735/217520740-39a3b71e-2581-4b2f-80ae-b31f337f04b3.gif)
+![gnewsdemo](https://user-images.githubusercontent.com/78863735/217632111-77c475d8-8626-4c4e-978a-f1ee525dfb5e.gif)
 
