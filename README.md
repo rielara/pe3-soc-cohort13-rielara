@@ -1,6 +1,6 @@
 # 📰 News App using the GNews API
 
-The news app uses the [GNews API](https://gnews.io/) to retrieve the latest news. You can search for any keyword or topic, and it returns the latest 10 articles containing your keywords.
+>The news app uses the [GNews API](https://gnews.io/) to retrieve the latest news. You can search for any keyword or topic, and it returns the latest 10 articles containing your keywords.
 
 <div align="center">
 
