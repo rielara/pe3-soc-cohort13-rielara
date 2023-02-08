@@ -8,18 +8,37 @@ const Search = ({searchByTitle}) => {
 
 // I created a function called handleChange, this function will be used to get the title that the user searched for
     function handleChange(e){
+        if (e.target.value === "") {
+            alert("Please enter a keyword")
+        }
         setSearch(e.target.value)
-    }
+    } 
+
+
+    
 // I created a function called handleClick, this function will be used to call the searchByTitle function
+// also added the alert popup if the user does not enter a keyword
     function handleClick(){
+        if (search === "") {
+            alert("Please enter a keyword")
+        } else {
         searchByTitle(search)
-    }
-// I created a function called handleKeyDown, this function will be used to call the searchByTitle function when the user presses the enter key
-    function handleKeyDown(e){
-        if(e.key === "Enter"){
-            searchByTitle(search)
         }
     }
+
+// I created a function called handleKeyDown, this function will be used to call the searchByTitle function when the user presses the enter key
+// also added tghe alert popup if the user does not enter a keyword
+    function handleKeyDown(e){
+        if (e.key === "Enter") {
+            if (search === "") {
+                alert("Please enter a keyword")
+            } else {
+            searchByTitle(search)
+            }
+        }
+        
+    }
+
     
 
     // I then returned the input element, the input element will be used to get the title that the user searched for

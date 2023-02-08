@@ -20,7 +20,9 @@ function ResultsSection() {
         console.log(results)
         setResults(results.articles)
 
+
     }
+
 
     // I then returned the search component and mapped over the results array, passing the title, description, image and url to the card component
     return <>

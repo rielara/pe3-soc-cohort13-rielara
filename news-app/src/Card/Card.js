@@ -6,11 +6,12 @@
 
 
 export default function Card({title, description, image, url}){
-    return <article id="card">
+    return <article className="card">
         <h2>{title}</h2>
         <p>{description}</p>
         <img src={image} alt="news article" />
-        <a href = {url}>Read More</a>
+        <a href = {url} target="blank">Read More</a>
+        
 
     </article>
 }
