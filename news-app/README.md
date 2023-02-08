@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# 📰 News App using the GNews API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The news app uses the [GNews API](https://gnews.io/) to retrieve the latest news. You can search for any keyword or topic, and it returns the latest 10 articles containing your keywords.
 
-## Available Scripts
+<div align="center">
 
-In the project directory, you can run:
+![gnewswebsite](https://user-images.githubusercontent.com/78863735/217524110-03e7d40a-9d8b-45be-bbd7-b0c815fa9ba3.png)
 
-### `npm start`
+SCAN ⬆️ TO ACCESS THE WEBSITE OR CLICK [HERE](https://incomparable-beignet-0fba0e.netlify.app/)  
+Please note that depending on your web explorer, the colours may be slightly different.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## 🛠️ Tools and technologies 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div align="center">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
+<img src="https://user-images.githubusercontent.com/78863735/217511837-3e799dfb-b811-43c1-a318-2ff87e301b85.png" alt="gnews" width="200" height="40"/>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+</div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+⚙️ [GNews API](https://gnews.io/)  
+⚛️ [React](https://reactjs.org/)  
+🧪 [Jest v29.3.1](https://jestjs.io/docs/getting-started)  
+📝 [Cypress v12.3.0](https://docs.cypress.io/guides/references/cypress-studio)  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## 📽️ Demo
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![gnews](https://user-images.githubusercontent.com/78863735/217520740-39a3b71e-2581-4b2f-80ae-b31f337f04b3.gif)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

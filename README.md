@@ -1,31 +1,35 @@
-# Percayso Programming Exercise 3
+# 📰 News App using the GNews API
 
-## Brief
+The news app uses the [GNews API](https://gnews.io/) to retrieve the latest news. You can search for any keyword or topic, and it returns the latest 10 articles containing your keywords.
 
-Create a website that gets news from the GNews api:
+<div align="center">
 
-    https://gnews.io/?ref=apilist.fun
-    
-Your website must:    
-      
-  1) Include a search area
-  2) Include a results area
-  3) Include tests
-  4) Be hosted on a publicly accessible URL, so we can see it working
+![gnewswebsite](https://user-images.githubusercontent.com/78863735/217524110-03e7d40a-9d8b-45be-bbd7-b0c815fa9ba3.png)
 
-You are free to choose:
+SCAN ⬆️ TO ACCESS THE WEBSITE OR CLICK [HERE](https://incomparable-beignet-0fba0e.netlify.app/)  
+Please note that depending on your web explorer, the colours may be slightly different.
 
-  1) How to style all aspects of the page.
-  2) What language and framework to use.
+</div>
 
-We are looking to understand your approach to solving this problem as much as the actual technical solution. Add comments to your code to help us understand your thinking. 
 
-Googling syntax is allowed, googling solutions is not.
+## 🛠️ Tools and technologies 
 
-## Submitting your solution
+<div align="center">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
+<img src="https://user-images.githubusercontent.com/78863735/217511837-3e799dfb-b811-43c1-a318-2ff87e301b85.png" alt="gnews" width="200" height="40"/>
 
-Please commit your solution within the time frame given to you, even if your solution is not complete. We will be interested in seeing how you approached the problem.
 
-## Extra credit
+</div>
 
-If you're in the mood for showboating, plese feel free to show us what else you can do. E.g. you could automate tests for your solution.
+⚙️ [GNews API](https://gnews.io/)  
+⚛️ [React](https://reactjs.org/)  
+🧪 [Jest v29.3.1](https://jestjs.io/docs/getting-started)  
+📝 [Cypress v12.3.0](https://docs.cypress.io/guides/references/cypress-studio)  
+
+
+## 📽️ Demo
+
+![gnews](https://user-images.githubusercontent.com/78863735/217520740-39a3b71e-2581-4b2f-80ae-b31f337f04b3.gif)
+
