@@ -6,9 +6,12 @@
 export default function Header() {
     
     return <>
-    <h1 id="title">News App</h1>
-    <p id="p">Type in a keyword, then press enter or click the 'Search' button</p>
-    <p id="p">Example: search for keywords like "food", "science", "coffee"...</p>
+    <img id="logo" src="https://gnews.io/assets/images/logo-black.svg?id=a332c72179db3a9d76e6718f0ba0247e" alt="news icon" />
+    <p id="p">
+        Type in a keyword, then press enter or click the 'Search' button
+        Example: search for keywords like "food", "science", "cute cats"...
+    
+    </p>
     </>
 }
 

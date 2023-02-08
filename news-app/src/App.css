@@ -27,26 +27,36 @@ body {
   background-color: #242424;
 }
 
-#title {
-  font-size: 1.5em;
-  font-weight: bold;
-  color: #e2e2e5;
-  text-align: center;
-  margin: 0;
-  padding: 0;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
+
 
 #p {
   font-size: 1em;
   font-weight: 400;
-  color: #e2e2e5;
+  color: #1d1d1f;
   text-align: center;
-  margin: 0;
-  padding: 0;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #ccc;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+#logo {
+  width: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
 }
 
 .input {
