@@ -3,6 +3,8 @@
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
+  margin-left: auto;
+  margin-right: auto;
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
@@ -34,13 +36,15 @@ body {
   font-weight: 400;
   color: #1d1d1f;
   text-align: center;
-  width: 500px;
+  width: 350px ;
   display: flex;
   justify-content: center;
   align-items: center;
   margin: 0 auto;
   margin-top: 30px;
   margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
   padding: 20px;
   background-color: #ccc;
   border-radius: 8px;
@@ -110,6 +114,9 @@ button:focus-visible {
   align-items: center;
   justify-content: center;
   margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 article.card {
