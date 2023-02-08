@@ -2,6 +2,15 @@
 
 The news app uses the [GNews API](https://gnews.io/) to retrieve the latest news. You can search for any keyword or topic, and it returns the latest 10 articles containing your keywords.
 
+<div align="center">
+
+![gnewswebsite](https://user-images.githubusercontent.com/78863735/217524110-03e7d40a-9d8b-45be-bbd7-b0c815fa9ba3.png)
+
+SCAN ⬆️ TO ACCESS THE WEBSITE OR CLICK [HERE](https://incomparable-beignet-0fba0e.netlify.app/)  
+Please note that depending on your web explorer, the colours may be slightly different.
+
+</div>
+
 
 ## 🛠️ Tools and technologies 
 
